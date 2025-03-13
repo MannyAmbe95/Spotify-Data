@@ -23,6 +23,7 @@ The dataset consists of historical and future-projected data on artists, streami
 After preprocessing the data, I leveraged Power BI’s interactive visualization capabilities to build a dashboard that presents dynamic insights. The final dashboard includes multiple infographics and trend analysis components that allow users to explore data based on specific years and artists. These visual elements help uncover historical patterns, growth trends, and predictions for future developments in the industry.
 
 Key Features
+
 ✅ Data Cleansing & Transformation – The project involved handling missing values, standardizing formats, removing duplicates, and performing other essential data preparation steps using Power Query. Advanced techniques such as data type conversions, text transformations, and calculated columns were also applied.
 
 ✅ Dynamic Visualizations – The dashboard features interactive charts, allowing users to filter data based on specific time periods and artists. This enhances user engagement and enables deeper analysis.
